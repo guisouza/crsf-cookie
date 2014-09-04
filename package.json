@@ -1,0 +1,14 @@
+{
+  "name": "csrf-cookie",
+  "version": "0.0.2",
+  "description": "CSRF module that works with cookies ! =D YEAHHH ! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme (coder)",
+  "license": "Beer-Ware",
+  "dependencies": {
+    "blowfish": "^1.0.1"
+  }
+}
